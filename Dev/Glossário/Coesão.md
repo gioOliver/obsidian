@@ -1,0 +1,1 @@
+- Ligado ao [Principio da Responsabilidade Única](obsidian://open?vault=obsidian&file=Dev%2FBoas%20pr%C3%A1ticas%2FSOLID%2FSingle%20Responsibility%20Principle) diz que uma classe ou um método devem ter apenas uma responsabilidade e realizá-la de maneira satisfatória.

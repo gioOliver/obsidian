@@ -1,0 +1,1 @@
+Indica o quanto uma classe depende de outra para funcionar. Quanto maior a dependencia, maior o acoplamento, se conhece por classes fortemente acopladas, o que dificulta na manutenção e reutilização do código.
