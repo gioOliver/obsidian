@@ -1,7 +1,7 @@
 
 Principio aberto-fechado define que objetos/entidades devem estar abertos para extensão e fechados para modificação.
 
-Ótimo para funções que já dependem de muitas regras e tem tudo para depender de ainda mais regras futuramente. Conversa muito com o padrão de design [strategy](obsidian://open?vault=obsidian&file=Dev%2FDesign%20Patterns%2FPadr%C3%B5es%20Comportamentais%2FStrategy)
+Ótimo para funções que já dependem de muitas regras e tem tudo para depender de ainda mais regras futuramente. Conversa muito com o padrão de design [[Strategy]]
 
 No geral, cada vez que o objeto tem que realizar uma ação que muda de acordo com diversas regras, no lugar de um monte de if nessa ação, deve se fazer o objeto consumir apenas uma interface e cada regra deve ter sua propria classe que implementa a interface criada. Dessa maneira cada vez que uma nova regra for adicionada ao sistema, o objeto não mudará em nada, apenas será adicionada uma nova classe com a regra.
 
