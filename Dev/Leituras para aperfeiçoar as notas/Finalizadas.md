@@ -1,3 +1,3 @@
 - [# Entendendo Coesão e Acoplamento](https://www.devmedia.com.br/entendendo-coesao-e-acoplamento/18538)
 - [# Conceitos e Exemplos – Polimorfismo: Programação Orientada a Objetos](https://www.devmedia.com.br/conceitos-e-exemplos-polimorfismo-programacao-orientada-a-objetos/18701)
-- 
+- [# **Injeção de Dependência**](https://medium.com/@eduardolanfredi/inje%C3%A7%C3%A3o-de-depend%C3%AAncia-ff0372a1672)
