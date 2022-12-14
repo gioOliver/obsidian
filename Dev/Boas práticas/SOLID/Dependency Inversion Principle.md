@@ -13,16 +13,16 @@ Outro ponto importante. Esse conceito do [[SOLID]] é relacionado a inversão de
 
 ### Exemplo
 
-![[Pasted image 20221213210008.png]]
+![[Pasted image 20221213210008 1.png]]
 
 Só nesse trecho de código já podemos ver que há um alto nível de [[Acoplamento]] pois para usar a classe, deve-se obrogatoriamente instanciar o MySQLConnection.
 
 
-![[Pasted image 20221213210209.png]]
+![[Pasted image 20221213210209 1.png]]
 
 Uma das saídas seria justamente utilizar a Injeção de dependência. Assim, a classe já vem instanciada. Mas, mesmo assim, ainda não está bom o suficiente pois ainda estamos violando o DIP e, além disso, estamos violando o [[Open-Closed Principle]] pois, se quisermos usar a mesma classe com um banco de dados Oracle, não seria possível pois seria necessário editar a classe ao invés de extendê-la.
 
-![[Pasted image 20221213210647.png]]
+![[Pasted image 20221213210647 1.png]]
 
 Então, para resolver de vez o problema, usamos ela, a maravilhosa e abstrata, interface.
 
