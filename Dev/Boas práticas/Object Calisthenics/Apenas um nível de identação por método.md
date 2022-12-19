@@ -33,3 +33,35 @@ public function show($slug)
 ```
 
 Nesse caso com uma aplicação do método de extração e um ternário já é possível remover um nível da identação, aplicar a legibilidade do código e ainda seguir o SRO.
+
+``` php
+<?php
+
+	public function show($slug)
+	{
+		$lesson = $this->repository->findBySlug($slug);
+		
+		if ($lesson) {
+			$this->addThumbToImages($lesson->thumb_url);
+			
+			$trackTitle = ! $lesson->track ? '' : '['.$lesson->track->title.']';
+			
+			$this->seo()->setTitle($lesson->title . $trackTitle);
+			
+			$this->seo()->setDescription($lesson->description);
+			
+			return $this->view('lessons::show')->with(compact('lesson'));
+		}
+		
+		return redirect(route('lesson.index'));
+	}
+	
+	protected function addThumbToImages($thumbURL)
+	{
+		if (empty($thumbURL)) {
+			return false;
+		}
+	
+		return $this->seo()->addImages($thumbURL);
+	}
+```

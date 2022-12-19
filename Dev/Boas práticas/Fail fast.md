@@ -1,7 +1,7 @@
 - Coloca os erros antes de qualquer ação no código
 - Melhora a legibilidade
 - Elimina níveis de identação 
-- [[Evitar usar else]]
+- [[Não use else]]
 
 
 Fail fast consiste em manter todas as verificações que possam retornar um erro já no inicio da função
