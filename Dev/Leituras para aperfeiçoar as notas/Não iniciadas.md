@@ -1,0 +1,2 @@
+- [# Laravel Collections & Eloquent ORM, uma breve introdução (Parte 1)](https://medium.com/sysvale/laravel-collections-eloquent-orm-uma-breve-introdu%C3%A7%C3%A3o-parte-1-e36238bbf034)
+- 

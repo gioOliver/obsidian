@@ -7,3 +7,4 @@ O objetivo é levantar regras simples e que, após se tomar conhecimento de cada
 1 [[Apenas um nível de identação por método]]
 2 [[Não use else]]
 3 [[Envolva os tipos primitivos]]
+4 [[Coleções de primeira classe]] 

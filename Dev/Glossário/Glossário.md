@@ -4,6 +4,7 @@
 
 # C
 - [[Coesão]]
+- [[Collection]]
 
 # M
 - [[Módulo de alto nível]]
