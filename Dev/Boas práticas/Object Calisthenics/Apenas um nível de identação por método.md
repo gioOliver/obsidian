@@ -2,7 +2,6 @@ Uma das regras que aplicam muito forte o [[Single Responsibility Principle]] poi
 
 Um método de refatoração muito usado para aplicar essa regra em códigos já existentes é o método de [[Extração]], pois cada nível de identação após o primeiro pode ser extraido para uma nova função que realize apenas aquela ação.
 
-
 ``` php
 <?php
 

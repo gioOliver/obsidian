@@ -13,6 +13,7 @@ Outro ponto importante. Esse conceito do [[SOLID]] é relacionado a inversão de
 
 ### Exemplo
 
+
 ![[Pasted image 20221213210008 1.png]]
 
 Só nesse trecho de código já podemos ver que há um alto nível de [[Acoplamento]] pois para usar a classe, deve-se obrogatoriamente instanciar o MySQLConnection.
