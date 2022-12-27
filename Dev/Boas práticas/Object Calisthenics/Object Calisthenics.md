@@ -11,3 +11,5 @@ O objetivo é levantar regras simples e que, após se tomar conhecimento de cada
 5 [[Apenas um ponto(seta) por linha]]
 6 [[Não abreviar nomes de métodos e variáveis]]
 7 [[Mantenha classes pequenas]]
+8 [[Não tenha mais que duas variáveis de instância em sua classe]]
+
