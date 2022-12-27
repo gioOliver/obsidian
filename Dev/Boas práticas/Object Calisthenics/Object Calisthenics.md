@@ -9,3 +9,4 @@ O objetivo é levantar regras simples e que, após se tomar conhecimento de cada
 3 [[Envolva os tipos primitivos]]
 4 [[Coleções de primeira classe]] 
 5 [[Apenas um ponto(seta) por linha]]
+6 [[Não abreviar nomes de métodos e variáveis]]
