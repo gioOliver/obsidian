@@ -8,3 +8,4 @@ O objetivo é levantar regras simples e que, após se tomar conhecimento de cada
 2 [[Não use else]]
 3 [[Envolva os tipos primitivos]]
 4 [[Coleções de primeira classe]] 
+5 [[Apenas um ponto(seta) por linha]]
