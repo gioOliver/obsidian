@@ -3,4 +3,6 @@
 - [# **Injeção de Dependência**](https://medium.com/@eduardolanfredi/inje%C3%A7%C3%A3o-de-depend%C3%AAncia-ff0372a1672)
 - [# O que é SOLID: O guia completo para você entender os 5 princípios da POO](https://medium.com/desenvolvendo-com-paixao/o-que-%C3%A9-solid-o-guia-completo-para-voc%C3%AA-entender-os-5-princ%C3%ADpios-da-poo-2b937b3fc530)
 - [# NUNCA mais comente seu código!](https://helio.me/nunca-mais-comente-seu-codigo-9b20df89c285)
+- [# Object Calisthenics: 9 regras para aperfeiçoar seus códigos](https://www.neoassist.com/blog/object-calisthenics-9-regras-para-aperfeicoar-seus-codigos/)
+- [# Desenvolva um código melhor com Object Calisthenics](https://medium.com/@rafaelcruz_48213/desenvolva-um-c%C3%B3digo-melhor-com-object-calisthenics-d5364767a9ba)
 - 

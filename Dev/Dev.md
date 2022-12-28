@@ -4,7 +4,11 @@
 - [[Boas Práticas]]
 - [[Design Patterns]]
 - [[Linguagens]]
--
+- [[Glossário]]
+- [[Refatoração]]
+- [[Sistemas]]
+- 
+
 
 [[Leituras para aperfeiçoar as notas]]
 

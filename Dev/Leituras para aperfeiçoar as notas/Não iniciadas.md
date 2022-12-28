@@ -1,2 +1,3 @@
 - [# Laravel Collections & Eloquent ORM, uma breve introdução (Parte 1)](https://medium.com/sysvale/laravel-collections-eloquent-orm-uma-breve-introdu%C3%A7%C3%A3o-parte-1-e36238bbf034)
-- 
+- [Circuit Braker Pattern parte 1](https://medium.com/@rafaelcruz_48213/implementando-o-circuit-breaker-pattern-parte-1-f902bf5440f4)
+- [Circuit Breaker Pattern parte 2](https://medium.com/@rafaelcruz_48213/implementando-o-circuit-breaker-pattern-parte-2-1a9d84a25036)

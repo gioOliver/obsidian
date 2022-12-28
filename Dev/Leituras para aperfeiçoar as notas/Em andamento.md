@@ -1,5 +1,4 @@
-- [# Object Calisthenics: 9 regras para aperfeiçoar seus códigos](https://www.neoassist.com/blog/object-calisthenics-9-regras-para-aperfeicoar-seus-codigos/)
-- [# Desenvolva um código melhor com Object Calisthenics](https://medium.com/@rafaelcruz_48213/desenvolva-um-c%C3%B3digo-melhor-com-object-calisthenics-d5364767a9ba)
+
 - [# Composing Methods](https://refactoring.guru/refactoring/techniques/composing-methods)
 - [# Guia definitivo para a refatoração.](https://medium.com/studio-oceano/guia-definitivo-para-a-refatora%C3%A7%C3%A3o-568cc6625eaf)
 
