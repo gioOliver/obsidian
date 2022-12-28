@@ -12,4 +12,5 @@ O objetivo é levantar regras simples e que, após se tomar conhecimento de cada
 6 [[Não abreviar nomes de métodos e variáveis]]
 7 [[Mantenha classes pequenas]]
 8 [[Não tenha mais que duas variáveis de instância em sua classe]]
+9 [[Não use getters e setters]]
 
