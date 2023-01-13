@@ -2,4 +2,6 @@
 - [Circuit Braker Pattern parte 1](https://medium.com/@rafaelcruz_48213/implementando-o-circuit-breaker-pattern-parte-1-f902bf5440f4)
 - [Circuit Breaker Pattern parte 2](https://medium.com/@rafaelcruz_48213/implementando-o-circuit-breaker-pattern-parte-2-1a9d84a25036)
 - [# Concorrência, Paralelismo, Processos, Threads, programação síncrona e assíncrona](https://www.treinaweb.com.br/blog/concorrencia-paralelismo-processos-threads-programacao-sincrona-e-assincrona)
-- 
+- [# A Deep Dive Into Laravel Queues](https://www.honeybadger.io/blog/laravel-queues-deep-dive/)
+- [Diving Laravel](https://divinglaravel.com/topics)
+
