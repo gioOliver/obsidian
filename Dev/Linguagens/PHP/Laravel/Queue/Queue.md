@@ -8,15 +8,16 @@ Para utilizar uma fila, devemos primeiro escolher e configurar o [[Driver]] que 
 
 Para salvar a fila no banco de dados, deve-se definir no env QUEUE_CONNECTION=database. Caso seja necessário mudar as configurações padrão da fila, deve mudar na pasta config/queue os da fila.
 
+Feito isso, adicionamos toda a lógica a ser executada em uma [[Job]]
 
-## Jobs
+E então usamos o comando `php artisan queue:work` para acionarmos nossa fila localmente
 
-Classe onde será executado todo o processo de uma tarefa colocada na fila
+Em casos de filas executadas no banco de dados, caso alguma das jobs dê erro, ela será adicionada na tabela `failed jobs` onde será possivel ver o motivo da exeção.
 
-Normalmente tem apenas a classe handle() que é onde toda a magia acontece, mas pode também ter um constructor para receber parametros.
+Caso o erro não tenha a ver com o código ou os parametreos da jobs, é possivel mandar todos os itens de `failed_jobs` de volta para a fila de execução com o comando `php artisan queue:retry --all`
 
+Ou, listar as jobs com erro com ``php artisan queue:failed`` e então rodar `php artisan queue:retry {id}` param mandar uma job especifica de volta a fila de execução.
 
-## Rodando filas
+Se não for possivel enviar a job de volta para a fila, o comando `php artisan queue:forget` apaga todos os registros de falha da tabela ou `php artisan queue:forget {id}` para apagar apenas um.
 
-No ambiente local, ao testar pela primeira vez a fila
-
+Para manter as jobas rodando em produção, é necessário o uso do Supervisor
