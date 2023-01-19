@@ -20,4 +20,4 @@ Ou, listar as jobs com erro com ``php artisan queue:failed`` e então rodar `php
 
 Se não for possivel enviar a job de volta para a fila, o comando `php artisan queue:forget` apaga todos os registros de falha da tabela ou `php artisan queue:forget {id}` para apagar apenas um.
 
-Para manter as jobas rodando em produção, é necessário o uso do Supervisor
+Para manter as jobas rodando em produção, é necessário o uso do [[Supervisor]]
