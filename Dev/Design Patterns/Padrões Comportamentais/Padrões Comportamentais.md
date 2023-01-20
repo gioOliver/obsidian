@@ -2,4 +2,4 @@ Padrões focados na criação de objetos de maneira a aumentar a flexibilidade e
 
 1. [[Chain of Responsibility]]
 2. [[Command]]
-3. 
+3. [[Iterator]]
