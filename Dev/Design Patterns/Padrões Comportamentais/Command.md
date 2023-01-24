@@ -3,8 +3,6 @@ Extrai toda a lógica de um command/cron/job para uma classe separada permitindo
 Para implementarmos o padrão command, devemos primeiro criar uma inteface com o metodo `execute` para nossos comandos
 
 ```php
-?php
-
 namespace RefactoringGuru\Command\Conceptual;
 
 interface Command

@@ -1,0 +1,10 @@
+{
+	"nodes":[
+		{"id":"79e2e855e952d784","x":-125,"y":-30,"width":250,"height":60,"type":"text","text":"uhuuul\n"},
+		{"id":"8e1ab8dd4ac602fa","x":-325,"y":-1031,"width":400,"height":400,"type":"file","file":"Dev/Glossário/Glossário.md"},
+		{"id":"72106d6ec0319598","x":530,"y":-1086,"width":400,"height":400,"type":"file","file":"Dev/Glossário/Polimorfismo.md"}
+	],
+	"edges":[
+		{"id":"bbded4f14dab72d8","fromNode":"8e1ab8dd4ac602fa","fromSide":"right","toNode":"72106d6ec0319598","toSide":"left"}
+	]
+}
