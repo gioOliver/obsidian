@@ -4,4 +4,6 @@ Padrões focados na criação de objetos de maneira a aumentar a flexibilidade e
 2. [[Command]]
 3. [[Iterator]]
 4. [[Mediator]]
-5. 
+5. [[Memento]]
+6. [[Observer]]
+7. 
