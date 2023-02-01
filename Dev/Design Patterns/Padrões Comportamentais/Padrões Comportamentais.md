@@ -7,4 +7,5 @@ Padrões focados na criação de objetos de maneira a aumentar a flexibilidade e
 5. [[Memento]]
 6. [[Observer]]
 7. [[State]]
-8. 
+8. [[Strategy]]
+9. 
