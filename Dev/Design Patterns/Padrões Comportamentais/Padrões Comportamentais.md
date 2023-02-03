@@ -9,4 +9,4 @@ Padrões focados na criação de objetos de maneira a aumentar a flexibilidade e
 7. [[State]]
 8. [[Strategy]]
 9. [[Template]]
-10. 
+10. [[Visitor]]

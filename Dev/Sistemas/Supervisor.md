@@ -1,4 +1,4 @@
-Supervisor é um programa já pré instalado em sistemas Linux responsavel por monitorar e rodar processos no sistema, é possivel encontrá-lo em `/etc/supervisor` ou `/etc/supervisord.d` ou algo parecido
++Supervisor é um programa já pré instalado em sistemas Linux responsavel por monitorar e rodar processos no sistema, é possivel encontrá-lo em `/etc/supervisor` ou `/etc/supervisord.d` ou algo parecido
 
 Para ativar o supervisor, um simples `sudo supervisorctl start` já basta
 
