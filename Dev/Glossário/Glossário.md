@@ -1,11 +1,18 @@
 # A
 - [[Acoplamento]]
-
+- [[Abstração]] (Bridge)
 
 # C
 - [[Classe Abstrata]]
 - [[Coesão]]
 - [[Collection]]
+
+# G
+- [[GUI]]
+
+# I
+- [[Implementação]]
+
 
 # M
 - [[Módulo de alto nível]]

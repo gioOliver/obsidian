@@ -1,0 +1,1 @@
+Graphic User Interface, ou front end, tela do pc, celuar ou qualquer coisa visual onde o usuário interage
