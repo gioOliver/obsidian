@@ -3,4 +3,5 @@ Foca em assimilar classes e objetos em estruturas de grande escala mantendo-as f
 1. [[Adapter]]
 2. [[Bridge]]
 3. [[Composite]]
-4. 
+4. [[Decorator]]
+5. 
