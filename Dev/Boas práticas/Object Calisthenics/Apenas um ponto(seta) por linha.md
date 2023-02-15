@@ -16,9 +16,9 @@ class Parcela
 {
 	private Transacao $transacao;
 
-	public function getTransacao()
+	public function getDataTransacao()
 	{
-		return $this->transacao;
+		$this->transacao->getDataTransacao()
 	}
 }
 
@@ -28,7 +28,9 @@ class Venda
 
 	public function getDataTransacao()
 	{
-		return $this->parcela->transacao->getDataTransacao;
+		return $this->parcela->getDataTransacao;
 	}
 }
 ```
+
+Em casos de classe que se autoreferrenciam, não há motivos para seguir a risca o "apenas um ponto/seta" mas é importante que a classe acesse atributos e métodos apenas de classes ligadas diretamente a ela, ou seja, apenas dois pontos/setas por linha
