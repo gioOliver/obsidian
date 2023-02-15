@@ -1,0 +1,1 @@
+Padrão de design estrutural que oferece uma interface simplificada para uma biblioteca, framework ou um conjuto complexo de classes. É basicamente um resumo de um conjunto de classes que disponibiliza apenas os métodos que serão realmente utilizados
