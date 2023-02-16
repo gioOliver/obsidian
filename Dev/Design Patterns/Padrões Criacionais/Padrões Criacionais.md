@@ -6,4 +6,5 @@ Foca em assimilar classes e objetos em estruturas de grande escala mantendo-as f
 4. [[Decorator]]
 5. [[Facade]]
 6. [[Flyweight]]
-7. 
+7. [[Proxy]]
+8.
