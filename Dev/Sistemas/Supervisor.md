@@ -29,7 +29,7 @@ Feito isso, é necessário criar um arquivo .conf para cada processo que você d
 ``` conf
 [program:laravel-worker]
 process_name=%(program_name)s_%(process_num)02d
-command=php /data/www/html/pagamentos.conexaorapida.com.br/artisan queue:work --timeout=3300 --tries=3 --queue-laravel-queue
+command=php /data/www/html/pagamentos.conexaorapida.com.br/artisan queue:work --timeout=3300 --tries=3 --queue=laravel-queue
 autostart=true
 autorestart=true
 numprocs=3
