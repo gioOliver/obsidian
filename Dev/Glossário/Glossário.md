@@ -7,6 +7,9 @@
 - [[Coesão]]
 - [[Collection]]
 
+# E
+- [[Entidade]]
+
 # G
 - [[GUI]]
 
@@ -22,3 +25,6 @@
 # P
 - [[Polimorfismo]]
 
+# V
+- [[Value Object]]
+- 

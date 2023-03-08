@@ -4,4 +4,5 @@
 - [# Concorrência, Paralelismo, Processos, Threads, programação síncrona e assíncrona](https://www.treinaweb.com.br/blog/concorrencia-paralelismo-processos-threads-programacao-sincrona-e-assincrona)
 - [# A Deep Dive Into Laravel Queues](https://www.honeybadger.io/blog/laravel-queues-deep-dive/)
 - [Diving Laravel](https://divinglaravel.com/topics)
-
+- [O que é arquitetura](https://dev.to/phprio/o-que-e-arquitetura-17ob)
+- [ValueObject](https://martinfowler.com/bliki/ValueObject.html)
