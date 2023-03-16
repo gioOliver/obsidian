@@ -1,6 +1,8 @@
 # A
 - [[Acoplamento]]
 - [[Abstração]] (Bridge)
+- [[Auto encapsulamento]]
+- 
 
 # C
 - [[Classe Abstrata]]
