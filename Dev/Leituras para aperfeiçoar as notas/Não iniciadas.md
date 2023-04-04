@@ -6,3 +6,4 @@
 - [Diving Laravel](https://divinglaravel.com/topics)
 - [O que é arquitetura](https://dev.to/phprio/o-que-e-arquitetura-17ob)
 - [ValueObject](https://martinfowler.com/bliki/ValueObject.html)
+- [Vídeo do uncle bob sobre clean architecture](https://www.youtube.com/watch?v=Nsjsiz2A9mg&ab_channel=gnbitcom)
