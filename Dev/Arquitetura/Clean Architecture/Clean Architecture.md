@@ -9,6 +9,6 @@ Como o diagrama mostra, o fluxo da aplicação é sempre das camadas externas pa
 
 As 4 camadas do diagrama:
  1. [Entidades / Regras de negócio](Entidades)
- 2. Regras de aplicação
- 3. Adaptadores de interface
- 4. Framework e Drivers
+ 2. [Casos de uso / Regras de aplicação](obsidian://open?vault=obsidian&file=Dev%2FArquitetura%2FClean%20Architecture%2FCasos%20de%20Uso)
+ 4. Adaptadores de interface
+ 5. Framework e Drivers
