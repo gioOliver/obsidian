@@ -15,7 +15,3 @@ Classe onde será executado todo o processo de uma tarefa colocada na fila
 Normalmente tem apenas a classe handle() que é onde toda a magia acontece, mas pode também ter um constructor para receber parametros.
 
 
-## Rodando filas
-
-No ambiente local, ao testar pela primeira vez a fila
-
