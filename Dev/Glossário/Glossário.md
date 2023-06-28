@@ -1,11 +1,23 @@
 # A
 - [[Acoplamento]]
-
+- [[Abstração]] (Bridge)
+- [[Auto encapsulamento]]
+- 
 
 # C
 - [[Classe Abstrata]]
 - [[Coesão]]
 - [[Collection]]
+
+# E
+- [[Entidade]]
+
+# G
+- [[GUI]]
+
+# I
+- [[Implementação]]
+
 
 # M
 - [[Módulo de alto nível]]
@@ -15,3 +27,6 @@
 # P
 - [[Polimorfismo]]
 
+# V
+- [[Value Object]]
+- 

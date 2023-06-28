@@ -1,0 +1,1 @@
+Uma coleção genérica de elementos, normalmente usada para representar/tipar listas de objetos

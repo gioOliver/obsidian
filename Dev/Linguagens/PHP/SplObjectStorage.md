@@ -1,0 +1,1 @@
+Classe responsavel por guardar e gerenciar uma lista de objetos

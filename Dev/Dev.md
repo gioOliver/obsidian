@@ -7,7 +7,7 @@
 - [[Glossário]]
 - [[Refatoração]]
 - [[Sistemas]]
-- 
+- [[Arquitetura de Software]]
 
 
 [[Leituras para aperfeiçoar as notas]]
