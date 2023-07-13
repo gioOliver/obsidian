@@ -7,3 +7,5 @@
 - [O que é arquitetura](https://dev.to/phprio/o-que-e-arquitetura-17ob)
 - [ValueObject](https://martinfowler.com/bliki/ValueObject.html)
 - [Vídeo do uncle bob sobre clean architecture](https://www.youtube.com/watch?v=Nsjsiz2A9mg&ab_channel=gnbitcom)
+- [Database Normalization vs. Denormalization](https://medium.com/analytics-vidhya/database-normalization-vs-denormalization-a42d211dd891#:~:text=Normalization%20is%20the%20technique%20of,to%20make%20data%20retrieval%20faster.)
+- 

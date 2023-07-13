@@ -95,3 +95,7 @@ class carroController
 ## Injeção por interface
 
 Ainda não entendi bem o rolê dessa aqui, mas no geral dá para passar as dependencias via interface uhul
+
+
+normilazarion
+cashind
