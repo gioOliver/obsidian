@@ -41,4 +41,4 @@ Entra no container e pode navegar por ele. o shell.bat do devilbox
 ### docker build -t olivergio/nome_container:latest .
 Constroi o container baseado na imagem gerada
 ### docker push olivergio/nome_container:latest
-Sobe a imagem criada no dockerhub para que qualquer pessoa tenha acesso a ele
+Sobe a imagem criada no dockerhub para que qualquer pessoa tenha acesso a ele.
