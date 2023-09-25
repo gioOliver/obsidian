@@ -9,7 +9,7 @@ Primeiro de tudo, deve se criar um arquivo chamado `dockerfile`
 
 Nesse arquivo, dizemos qual imagem do dockerhub queremos nos basear
 
-```` dockerfile
+``` dockerfile
 #sempre partimos de alguma imagem
 FROM nginx:latest
 
