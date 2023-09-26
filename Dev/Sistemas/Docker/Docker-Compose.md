@@ -99,3 +99,7 @@ volumes:
 	pgdata:
 ```
 
+após configurar tudo, é só rodar um `docker-compose build`para baixar tudo o que tem para baixar e, configurar as imagens.
+
+
+Dando tudo certo, manda um `docker-compose up -d` e aí é só correr por abraço
