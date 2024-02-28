@@ -8,6 +8,7 @@
 - [[Refatoração]]
 - [[Sistemas]]
 - [[Arquitetura de Software]]
+- [[Infra]]
 
 
 [[Leituras para aperfeiçoar as notas]]
